@@ -14,7 +14,7 @@
 ## Запуск
 
 1. Распаковать ZIP-архив
-2. Запустить `run.bat` (Windows) или `run.sh` (Linux/Mac)
+2. Запустить 'run.bat' (Windows) или 'run.sh' (Linux/Mac)
  
 
 ## Автор
